@@ -1,1 +1,1 @@
-# ftp.nuclearis.com
+# cpanel.nuclearis.com
